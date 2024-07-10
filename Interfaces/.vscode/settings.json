@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java+.runConfig.vmOptions": "--enable-preview --source 22",
+    "CodeGPT.apiKey": "CodeGPT Plus Beta"
+}
